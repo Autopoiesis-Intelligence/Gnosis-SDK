@@ -19,4 +19,4 @@ This repository is currently a scaffold. No stable SDK API, package release, com
 
 ## Naming
 
-The canonical project spelling is **Gnosis**; the factory layer is **Genesis**.
+The canonical project spelling is **Gnosis**. The protected factory is described generically until its repository and deployment boundary are formally confirmed.
