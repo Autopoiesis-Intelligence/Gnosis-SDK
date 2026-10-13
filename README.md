@@ -20,3 +20,7 @@ This repository is currently a scaffold. No stable SDK API, package release, com
 ## Repository boundary
 
 The private repository `Gnosis-Genesis` exists, but its factory, production, and authority responsibilities have not been confirmed from its current repository contents. Gnosis-SDK does not grant authority over Gnosis-Core.
+
+## Naming
+
+The canonical project spelling is **Gnosis**; the factory layer is **Genesis**.
