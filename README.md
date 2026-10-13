@@ -17,6 +17,6 @@ An SDK client is an integration convenience, not an authority source. Possessing
 
 This repository is currently a scaffold. No stable SDK API, package release, compatibility guarantee, or complete integration is implied until code, tests, release metadata, and CI evidence establish it.
 
-## Naming
+## Repository boundary
 
-The canonical project spelling is **Gnosis**; the factory layer is **Genesis**.
+The private repository `Gnosis-Genesis` exists, but its factory, production, and authority responsibilities have not been confirmed from its current repository contents. Gnosis-SDK does not grant authority over Gnosis-Core.
